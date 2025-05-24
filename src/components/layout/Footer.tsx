@@ -129,8 +129,10 @@ const Footer: React.FC = () => {
             <ul className="space-y-3">
               <li className="flex items-start">
                 <Mail className="mr-2 text-primary-600 dark:text-primary-400 flex-shrink-0 mt-1" size={18} />
-                <a href="mailto:contact@gmail.com" className="text-gray-600 hover:text-primary-600 dark:text-gray-400 dark:hover:text-primary-400 transition-colors">
-                  contact@gmail.com
+                <a href="mailto:contact.codetrinity@gmail.com
+" className="text-gray-600 hover:text-primary-600 dark:text-gray-400 dark:hover:text-primary-400 transition-colors">
+                  contact.codetrinity@gmail.com
+
                 </a>
               </li>
               <li className="flex items-start">

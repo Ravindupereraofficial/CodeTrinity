@@ -91,10 +91,12 @@ const Home: React.FC = () => {
               <div>
                 <p className="text-sm text-gray-600 dark:text-gray-400 mb-1">Email Us</p>
                 <a 
-                  href="mailto:contact@gmail.com" 
+                  href="mailto:contact.codetrinity@gmail.com
+" 
                   className="text-gray-900 dark:text-white hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
                 >
-                  contact@gmail.com
+                  contact.codetrinity@gmail.com
+
                 </a>
               </div>
             </div>
@@ -119,7 +121,7 @@ const Home: React.FC = () => {
                     href="tel:+94711816134" 
                     className="block text-gray-900 dark:text-white hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
                   >
-                    +94 71 181 6134
+                    +94 71 181  6134
                   </a>
                 </div>
               </div>
@@ -176,7 +178,7 @@ const Home: React.FC = () => {
                 className="rounded-lg shadow-lg w-full h-auto object-cover"
               />
               <div className="absolute -bottom-6 -right-6 bg-primary-600 text-white p-6 rounded-lg shadow-lg hidden md:block">
-                <p className="text-lg font-semibold">5+ Years</p>
+                <p className="text-lg font-semibold">1+ Year</p>
                 <p className="text-sm">of Industry Experience</p>
               </div>
             </motion.div>

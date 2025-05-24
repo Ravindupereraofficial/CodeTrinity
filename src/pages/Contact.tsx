@@ -62,10 +62,12 @@ const Contact: React.FC = () => {
                       Email
                     </h3>
                     <a 
-                      href="mailto:contact@gmail.com" 
+                      href="mailto:contact.codetrinity@gmail.com
+" 
                       className="text-gray-700 dark:text-gray-300 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
                     >
-                      contact@gmail.com
+                      contact.codetrinity@gmail.com
+
                     </a>
                   </div>
                 </motion.div>
@@ -122,8 +124,8 @@ const Contact: React.FC = () => {
                       Location
                     </h3>
                     <address className="text-gray-700 dark:text-gray-300 not-italic">
-                      125 Innovation Drive,<br />
-                      Colombo 07,<br />
+                      You Can Meet Us Around,<br />
+                      Colombo And Monaragala,<br />
                       Sri Lanka
                     </address>
                   </div>
