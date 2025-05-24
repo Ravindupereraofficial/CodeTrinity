@@ -44,19 +44,19 @@ const About: React.FC = () => {
 
   const teamMembers = [
     {
-      name: 'Arjun Mendis',
+      name: 'Minindu Alwis',
       position: 'Founder & CEO',
-      image: 'https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+      image: 'https://z-p3-scontent.fcmb9-1.fna.fbcdn.net/v/t39.30808-6/480969513_667493302375045_4183549366601125925_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeG1SGgTZ9IQPWKLu_EwIw1UQ6HCiwfqPPhDocKLB-o8-Ah0niThvEIGfjOK_piRLhAHTgt0Y6jDaS6T5vj9EZk6&_nc_ohc=S71D-NwuVRIQ7kNvwGRLFyb&_nc_oc=Adm1BVZfZarw89bdX0_tMSAs3WVdatgw1Uy-Pt8NMIskwXPB_ZfFBKRKR0duMX7DGRs&_nc_zt=23&_nc_ht=z-p3-scontent.fcmb9-1.fna&_nc_gid=2lYrhF_78874XCADuI6gpQ&oh=00_AfJ0OKhwMg5cBghvZ4DfST8kNnREKQc2m_M2BLb8IZjr7Q&oe=6837BA0B'
     },
     {
-      name: 'Priya Jayawardena',
-      position: 'CTO',
-      image: 'https://images.pexels.com/photos/3760263/pexels-photo-3760263.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+      name: 'Ravindu Perera',
+      position: 'Co-Founder',
+      image: 'https://z-p3-scontent.fcmb9-1.fna.fbcdn.net/v/t39.30808-6/484515265_680195334520509_5264877982128028665_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeE0dh1f_GJWW-6jhrSkFGyRAjLaDxHvexkCMtoPEe97GSTK_LjUCiF0TZ18ClvZh4TM6iV-f64INXWbAoKJaLhE&_nc_ohc=Q9zk6uyj3JsQ7kNvwFAvFSq&_nc_oc=AdnY9yaP9dxYUdbaB7Z-eWv2WFzYlBxoovNQUL33w0R8FX90ntfd-QOR8x6sCaA9ayc&_nc_zt=23&_nc_ht=z-p3-scontent.fcmb9-1.fna&_nc_gid=7MTO-l8T9FE8WyDSXjtsWA&oh=00_AfL5AXZC_LVwzuuWRV-mWGpiXFgWXgpd08NpeUX4lx-3tg&oe=6837C6F3'
     },
     {
-      name: 'Kumara Rajapakse',
-      position: 'Creative Director',
-      image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+      name: 'Dimantha Theekshana',
+      position: 'Co-Founder',
+      image: 'https://z-p3-scontent.fcmb9-1.fna.fbcdn.net/v/t39.30808-6/476158294_122119430330618001_7020376234188710489_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHq6SNyXpPwxD_6FNZSNTwupgoplRLrChmmCimVEusKGRi42yfILN7tldKG1yxJ95KgKjiQ0vBJMs8CPWS4JrEb&_nc_ohc=rRNWOE3feBoQ7kNvwFJ0f3C&_nc_oc=AdlXdqwyvjU9kOYbVzj1GQbPT_D2_mAhJewQASvJwyDnFjPd17P4mZAJGSvjfvCn-RY&_nc_zt=23&_nc_ht=z-p3-scontent.fcmb9-1.fna&_nc_gid=IM-xWKdgsxNRzvHKWMJDiA&oh=00_AfJL8ew185IAg6ynL5DHrHhS_MSVVglCKUjF4r22iOCoXQ&oe=6837CEA1'
     }
   ];
 
@@ -114,9 +114,7 @@ const About: React.FC = () => {
               viewport={{ once: true, margin: '-50px' }}
               transition={{ duration: 0.5 }}
             >
-              Founded in 2020, CodeTrinity began as a small team of developers with a big vision: to create 
-              software that makes a difference. What started as a passion project quickly grew into a full-service 
-              software development company serving clients across Asia and beyond.
+             Founded in 2024, CodeTrinity emerged as a dynamic startup with a clear mission — to build impactful software solutions that solve real-world problems. What began as a visionary idea among a small group of passionate developers quickly evolved into a full-fledged software development company, delivering innovative solutions to clients across Asia and beyond.
             </motion.p>
             <motion.p 
               className="text-lg text-gray-700 dark:text-gray-300"

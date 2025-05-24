@@ -14,7 +14,7 @@ export const portfolioItems: PortfolioItem[] = [
   title: 'BOC Bank Digital Assistance & Feedback System',
   category: 'Web Development',
   description: `Designed and deployed three responsive web apps for BOC Bank Monaragala Branch, including ATM/CRM guidance, a QR-based feedback system, and a real-time admin dashboard for managers.`,
-  image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt_AIQu7xp08jWtZ9XMAcAr7F1hnwfJCgijw&s',
+  image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgGWEj5nwKgrETOHyunVzPtbkjMtBi-Vz-JA&s',
   technologies: ['React.js', 'Supabase', 'Chart.js', 'Netlify'],
   highlights: [
     'Deployed 3 separate applications now in use at BOC Bank Monaragala Branch',

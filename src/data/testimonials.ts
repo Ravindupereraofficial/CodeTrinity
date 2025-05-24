@@ -26,7 +26,7 @@ export const testimonials: Testimonial[] = [
   },
   {
     id: 3,
-    name: 'Nimal Fernando',
+    name: 'Dimantha Theekshana',
     position: 'Operations Manager',
     company: 'Colombo Logistics',
     content: 'The automation solution developed by CodeTrinity revolutionized our logistics operations. We\'ve seen a 35% reduction in processing time and significant cost savings. Their team\'s deep understanding of our industry challenges and commitment to finding the right solutions make them a valued partner.',
