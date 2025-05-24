@@ -92,9 +92,9 @@ const Testimonials: React.FC = () => {
             
             <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
               {[
-                { value: '50+', label: 'Completed Projects' },
-                { value: '30+', label: 'Happy Clients' },
-                { value: '5+', label: 'Years Experience' },
+                { value: '15+', label: 'Completed Projects' },
+                { value: '15+', label: 'Happy Clients' },
+                { value: '1+', label: 'Years Experience' },
                 { value: '99%', label: 'Client Satisfaction' },
               ].map((stat, index) => (
                 <motion.div

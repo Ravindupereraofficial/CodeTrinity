@@ -25,46 +25,46 @@ export const portfolioItems: PortfolioItem[] = [
   ]
 }
 ,
-  {
+   {
     id: 2,
-    title: 'MediConnect Healthcare App',
-    category: 'Mobile App Development',
-    description: 'A telemedicine application connecting patients with healthcare providers for virtual consultations, prescription management, and health monitoring.',
-    image: 'https://images.pexels.com/photos/8853537/pexels-photo-8853537.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    technologies: ['React Native', 'Firebase', 'Node.js', 'WebRTC'],
+    title: 'Grocery Delivery E-Commerce Platform',
+    category: 'E-Commerce',
+    description: 'A modern grocery delivery platform with cart functionality, seller admin panel, and secure online payments.',
+    image: 'https://images.pexels.com/photos/4393668/pexels-photo-4393668.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    technologies: ['React.js', 'Tailwind CSS', 'Node.js', 'Express.js', 'MongoDB', 'Stripe'],
     highlights: [
-      'HIPAA-compliant secure video consultations',
-      'Integrated prescription and pharmacy services',
-      'Real-time health metrics dashboard',
-      'Multilingual support for Sinhala, Tamil, and English'
+      'User-friendly cart and order management',
+      'Seller admin panel with product control',
+      'Secure payment integration with Stripe',
+      'RESTful APIs for seamless data operations'
     ]
   },
-  {
+ {
     id: 3,
-    title: 'AgriSmart Farm Management System',
-    category: 'AI & Automation',
-    description: 'An intelligent farm management system using IoT sensors and AI to optimize crop yields, water usage, and resource allocation for small to medium farms.',
-    image: 'https://images.pexels.com/photos/2132250/pexels-photo-2132250.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    technologies: ['Python', 'TensorFlow', 'IoT', 'React', 'AWS'],
+    title: ' Burger POS System',
+    category: 'Enterprise Application',
+    description: 'A scalable POS system for Mos Burger developed with secure backend and intuitive frontend for enhanced business operations and analytics.',
+    image: 'https://images.pexels.com/photos/1346132/pexels-photo-1346132.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    technologies: ['Spring Boot', 'JPA', 'Jasypt', 'MySQL', 'HTML', 'CSS', 'JavaScript'],
     highlights: [
-      'Predictive analytics for crop yield optimization',
-      'Automated irrigation based on soil moisture and weather data',
-      'Pest and disease detection through image recognition',
-      'Mobile app for real-time monitoring and alerts'
+      'Spring Boot backend with JPA for high-traffic handling',
+      'Jasypt encryption for secure customer data',
+      'Responsive UI with improved load time and engagement',
+      'Real-time data visualization using Chart.js'
     ]
   },
   {
     id: 4,
-    title: 'UrbanSync City Platform',
-    category: 'Smart City Solutions',
-    description: 'A comprehensive smart city platform helping local governments manage urban services more efficiently through data analytics and citizen engagement.',
-    image: 'https://images.pexels.com/photos/599982/pexels-photo-599982.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    technologies: ['Angular', 'Express.js', 'PostgreSQL', 'Azure'],
+    title: 'Askify - Online English Learning Platform',
+    category: 'AI Transformation',
+    description: 'A gamified and AI-driven platform for learning English with real-time grammar correction and conversation practice.',
+    image: 'https://images.pexels.com/photos/4143796/pexels-photo-4143796.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    technologies: ['HTML', 'CSS', 'JavaScript', 'Three.js', 'Gemini API'],
     highlights: [
-      'Integrated public transportation tracking',
-      'Smart waste management and collection optimization',
-      'Citizen reporting system with real-time updates',
-      'Energy consumption monitoring and optimization'
+      'Gamified English learning experience',
+      'Real-time grammar correction and feedback',
+      'Conversational AI integration',
+      'Cross-device responsive and accessible UI'
     ]
   }
 ];

@@ -360,7 +360,7 @@ const Home: React.FC = () => {
               to="/contact" 
               variant="secondary" 
               size="lg" 
-              className="bg-white text-primary-900 hover:bg-gray-100"
+              className="bg-blue text-primary-600 hover:bg-gray-100"
             >
               Get in Touch
             </Button>

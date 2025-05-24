@@ -177,7 +177,7 @@ const Services: React.FC = () => {
               to="/contact" 
               variant="secondary" 
               size="lg" 
-              className="bg-white text-primary-900 hover:bg-gray-100"
+              className="bg-blue text-primary-900 hover:bg-gray-100"
             >
               Contact Us Now
             </Button>
