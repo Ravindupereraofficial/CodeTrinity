@@ -9,20 +9,22 @@ export interface PortfolioItem {
 }
 
 export const portfolioItems: PortfolioItem[] = [
-  {
-    id: 1,
-    title: 'CeylonTravel Tourism Platform',
-    category: 'Web Development',
-    description: 'A comprehensive tourism platform connecting travelers with local experiences across Sri Lanka. Features include interactive maps, booking system, and personalized itineraries.',
-    image: 'https://images.pexels.com/photos/3155666/pexels-photo-3155666.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    technologies: ['React', 'Node.js', 'MongoDB', 'AWS'],
-    highlights: [
-      'Increased bookings by 45% within first quarter',
-      'Seamless integration with local payment gateways',
-      'Mobile-responsive design with offline capabilities',
-      'Advanced filtering and recommendation system'
-    ]
-  },
+{
+  id: 1,
+  title: 'BOC Bank Digital Assistance & Feedback System',
+  category: 'Web Development',
+  description: `Designed and deployed three responsive web apps for BOC Bank Monaragala Branch, including ATM/CRM guidance, a QR-based feedback system, and a real-time admin dashboard for managers.`,
+  image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt_AIQu7xp08jWtZ9XMAcAr7F1hnwfJCgijw&s',
+  technologies: ['React.js', 'Supabase', 'Chart.js', 'Netlify'],
+  highlights: [
+    'Deployed 3 separate applications now in use at BOC Bank Monaragala Branch',
+    'Implemented QR-based tutorials for ATM/CRM guidance',
+    'Built a section-based QR feedback system integrated with Supabase',
+    'Created a real-time admin dashboard with analytics via Chart.js',
+    'Fully responsive design deployed on Netlify'
+  ]
+}
+,
   {
     id: 2,
     title: 'MediConnect Healthcare App',
